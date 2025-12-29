@@ -2,6 +2,7 @@
 
 ##### Data Engineer | Building Scalable Data Pipelines & Lakehouse Architectures
 
-I’m a Data Engineer with ~2 years of hands-on experience in designing, building, and optimizing end-to-end data pipelines using modern cloud and big-data technologies. I enjoy transforming raw data into reliable, analytics-ready datasets and building systems that scale.
-
-I strongly believe in learning by building, and most of my repositories reflect real-world, production-style data engineering projects.
+- **Data Engineer** with **~2 YOE** in designing, building, and optimizing end-to-end data pipelines.
+- Have strong expertise in **Cloud** and **Big Data** Technologies.
+- Currently working on **Python**, **SQL**, **PySpark**.
+- Strongly believe in **learning by building** & work on production-style data engineering projects.
