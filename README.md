@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shubham Mergu
 
-##### Data Engineer | Building Scalable Data Pipelines & Lakehouse Architectures
+#### Data Engineer | Building Scalable Data Pipelines & Lakehouse Architectures
 
 - **Data Engineer** with **~2 YOE** in designing, building, and optimizing end-to-end data pipelines.
 - Have strong expertise in **Cloud** and **Big Data** Technologies.
