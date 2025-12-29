@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Shubham Mergu
+# 👋 Hi, I'm Shubham Mergu
 
 ##### Data Engineer | Building Scalable Data Pipelines & Lakehouse Architectures
 
