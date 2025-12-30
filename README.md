@@ -19,11 +19,7 @@
 </a>
 
 <a href="https://x.com/YOUR_X_USERNAME" target="_blank">
-  <img align="center"
-       src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg"
-       alt="x"
-       height="30"
-       width="30" />
+  <img width="30" height="30" src="https://img.icons8.com/ios-glyphs/30/twitterx--v1.png" alt="twitterx--v1"/>
 </a>
 
 <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
