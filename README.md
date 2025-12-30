@@ -18,12 +18,12 @@
        width="40" />
 </a>
 
-<a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
+<a href="https://x.com/YOUR_X_USERNAME" target="_blank">
   <img align="center"
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-       alt="twitter"
+       src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg"
+       alt="x"
        height="30"
-       width="40" />
+       width="30" />
 </a>
 
 <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
